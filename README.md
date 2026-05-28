@@ -1,1 +1,1 @@
-# Debouncing-Circuit-and-Edge-Detection
+# Debouncing-Circuit-and-Edge-Detection-using-FSM
